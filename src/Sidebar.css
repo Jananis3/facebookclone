@@ -1,0 +1,7 @@
+sidebar{
+        display: flex;
+        position: relative;
+        padding: 15px;
+        align-items: left;
+    
+}

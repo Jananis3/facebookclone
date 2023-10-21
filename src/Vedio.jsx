@@ -1,7 +1,7 @@
 import React from "react"
 //import 'bootstrap/dist/css/bootstrap.min.css';
 
-import Navigation from "../components/Navigation/Navigation";
+//import Navigation from "../components/Navigation/Navigation";
 import {FiSettings,FiSearch,FiHome}from 'react-icons/fi';
 import{RiLiveLine}from 'react-icons/ri';
 import{TfiVideoClapper} from 'react-icons/tfi';
